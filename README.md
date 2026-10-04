@@ -1,10 +1,10 @@
 # Data-Jobs 
-# 📊 Data Jobs & Tech Stack Dashboard (Power BI)
+ 📊 Data Jobs & Tech Stack Dashboard (Power BI)
 
-#📝 Short Description
+📝 Short Description
 This Power BI dashboard provides an end-to-end analysis of the data job market, highlighting key trends in job roles, required technical skills, salary distributions, and industry demand across the data engineering and analytics landscape.
 
-#🛠️ Tech Stack
+🛠️ Tech Stack
 Data Visualization: Power BI
 
 Data Modeling & Analytics: Power BI Data Model, DAX (Data Analysis Expressions)
@@ -13,7 +13,7 @@ Data Source & Web Platform: [DataNerd.tech](https://datanerd.tech/)
 
 Languages / Tools Analyzed: Python, SQL, R, Spark, AWS, Azure, GCP, Tableau, Snowflake, Docker
 
-#Key Features & Highlights
+Key Features & Highlights
 
 Interactive Job Role Analysis: Dynamic visual filters to analyze top roles including Data Engineers, Data Analysts, Data Scientists, and Machine Learning Engineers by demand and average compensation.
 
@@ -25,6 +25,6 @@ Dynamic DAX Measures: Custom DAX calculations and data models for real-time aggr
 
 Slicers & Cross-Filtering: Interactive page-level slicers allowing users to customize views based on remote status, company size, and specific tool combinations.
 
- #🖼️ Dashboard Preview
+ 🖼️ Dashboard Preview
 
 ![Power BI Dashboard Overview](https://github.com/karamnarejo/Data-Jobs/blob/main/data_jobs_SC.png)
