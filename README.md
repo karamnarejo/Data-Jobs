@@ -12,7 +12,7 @@ Languages / Tools Analyzed: Python, SQL, R, Spark, AWS, Azure, GCP, Tableau, Sno
 
 Key Features & Highlights
 
-Interactive Job Role Analysis: Dynamic visual filters to analyze top roles—including Data Engineers, Data Analysts, Data Scientists, and Machine Learning Engineers by demand and average compensation.
+Interactive Job Role Analysis: Dynamic visual filters to analyze top roles including Data Engineers, Data Analysts, Data Scientists, and Machine Learning Engineers by demand and average compensation.
 Tech Stack & Skill Matrix: In-depth breakdown of high-demand skills (SQL, Python, Cloud Platforms, Big Data tools) cross-referenced against specific job titles and seniority levels.
 Salary Distribution Insights: Comprehensive salary benchmarks segmented by geographic location, experience level, remote work options, and target industry.
 Dynamic DAX Measures: Custom DAX calculations and data models for real-time aggregation of key performance indicators (KPIs) such as median pay, skill frequency rates, and year-over-year job posting growth.
